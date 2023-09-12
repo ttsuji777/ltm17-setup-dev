@@ -1,7 +1,7 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-BIG-IP Local Traffic Manager (LTM) v15.1 簡単セットアップガイド
+BIG-IP Local Traffic Manager (LTM) v17.1 簡単セットアップガイド
 ==============================================
 
 本ドキュメントでは、BIG-IP Local Traffic Manager (LTM)の設定方法について解説します。
