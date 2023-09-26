@@ -24,7 +24,7 @@ Self-IP設定
 Device設定
 --------------------------------------
 
-「Device Management」→「Devices」で、自分自身: big40.f5jp.local (self)を選択し、Active機同様に、Device Connectivityの設定を行います。
+「Device Management」→「Devices」で、自分自身 (=big40.f5jp.local (self))を選択し、Active機同様に、Device Connectivityの設定を行います。
 
 - ConfigSync設定
 

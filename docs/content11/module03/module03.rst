@@ -18,12 +18,15 @@ HA VLANのIP設定
 .. figure:: images/mod11-3-2.png
    :scale: 20%
    :align: center
-（※注) Allow Noneを選ぶとHAの通信も止めてしまい、HAが組めません。(ここでは**Allow Default**を選びます)
+
+.. note::
+   Allow Noneを選ぶとHAの通信も止めてしまい、HAが組めません。(ここでは **Allow Default** を選びます)
+
 
 Deviceの設定
 --------------------------------------
 
-- 次に「Device Management」→「Devices」で、自分自身：big50.f5jp.local (Self)を選択します。
+- 次に「Device Management」→「Devices」で、自分自身 (=big50.f5jp.local (Self))を選択します。
 
 .. figure:: images/mod11-3-3-1.png
    :scale: 20%

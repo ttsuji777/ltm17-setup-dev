@@ -24,7 +24,7 @@ iHealthはBIG-IPの設定データや過去１ヶ月分のログデータを閲�
 
 
 | K12878: Generating diagnostic data using the qkview utility
-| https://support.f5.com/csp/article/K12878
+| https://my.f5.com/manage/s/article/K12878 
 
 
 - 「Start」ボタンを押すと、QKViewの作成が開始されます。

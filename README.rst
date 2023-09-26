@@ -13,7 +13,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
 
 - AskF5: https://support.f5.com/csp/home
 - F5 Cloud Docs: https://clouddocs.f5.com/
-- F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
+- F5 DevCentral (コミュニティ): https://community.f5.com/
 
 
 コンテンツ

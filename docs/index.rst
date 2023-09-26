@@ -3,7 +3,7 @@
 
 BIG-IP Local Traffic Manager (LTM) v17.1 簡単セットアップガイド
 ==============================================
-最終更新日: 2022年9月12日
+最終更新日: 2023年9月25日
 
 
 はじめに
@@ -13,7 +13,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
 
 - AskF5: https://support.f5.com/csp/home
 - F5 Cloud Docs: https://clouddocs.f5.com/
-- F5 DevCentral (コミュニティ): https://devcentral.f5.com/
+- F5 DevCentral (コミュニティ): https://community.f5.com/
 
 
 コンテンツ

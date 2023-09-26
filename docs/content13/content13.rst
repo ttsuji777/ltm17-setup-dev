@@ -17,8 +17,8 @@ LTMには、送信元IPやクッキーを用いたセッション維持、外部
 | F5のセキュリティ ソリューション
 | https://f5.com/jp/products/security
 
-| AskF5：ナレッジベース総合サイト (英語)
-| https://support.f5.com/kb/en-us.html
+| MyF5: ナレッジベース総合サイト (英語)
+| https://my.f5.com/
 
 | DevCentral: F5ユーザコミュニティサイト (英語：アカウント登録が必要です)
 | https://community.f5.com/
