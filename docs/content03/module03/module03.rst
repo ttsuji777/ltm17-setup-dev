@@ -73,6 +73,10 @@
    :scale: 30%
    :align: center
 
+.. note::
+   IPv4アドレスについては、F5 UDF Labでは設定済みなので、変更不要です。
+
+
 - この後、Standard Network Configurationの「Next」を押すことでウィザード形式にて冗長化も含めた設定が可能ですが、ここではスタンドアローン構成にするため、Advanced Network Configurationの「Finished」ボタンを押します。
 
 .. figure:: images/mod3-3-11.png

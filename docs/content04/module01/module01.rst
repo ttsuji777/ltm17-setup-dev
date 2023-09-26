@@ -6,14 +6,14 @@ VLANの作成
 - External VLANを設定します。
 
 .. figure:: images/mod4-1-1.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
 - Internal VLANを設定します。
 
 
 .. figure:: images/mod4-1-2.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
 
